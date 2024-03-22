@@ -1,0 +1,7 @@
+
+.file {
+margin-top: 5px;
+padding-left: 5px;
+display: flex;
+flex-direction: column;
+}
